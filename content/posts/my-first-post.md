@@ -1,6 +1,20 @@
 ---
-title: "My First Post"
-date: 2018-02-20T13:48:59+01:00
+title: My First Post
+date: {}
 draft: true
+published: true
 ---
+##Hello and welcome to my blog!
 
+Ldfsdfdsf
+fdsq
+fdsqf
+dsq
+fds
+qf
+dsqf
+dsq
+sqd
+f
+dsqf
+dsqfsqfdsf
