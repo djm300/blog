@@ -18,3 +18,9 @@ params:
     URL: "https://github.com/djm300/blog/tree/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+  homeInfoParams:
+    Title: Hi there!
+    Content: I'm an IT guy living in Belgium. I get energy from tinkering with new technologies. This blog site is my personal note taking effort.
+  socialIcons: # optional
+    - name: "Twitter"
+      url: "x.com"
