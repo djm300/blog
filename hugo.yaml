@@ -22,5 +22,5 @@ params:
     Title: Hi there!
     Content: I'm an IT guy living in Belgium. I get energy from tinkering with new technologies. This blog site is my personal note taking effort.
   socialIcons: # optional
-    - name: "Twitter"
-      url: "x.com"
+    - name: "X"
+      url: "https://x.com"
