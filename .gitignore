@@ -1,2 +1,5 @@
 public/
 .hugo_build**
+hugo.deb
+now.py
+idea.txt
