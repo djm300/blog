@@ -1,8 +1,8 @@
-+++
+---
 title = 'Kubernetes Omni'
 date = 2025-06-11T16:02:46+02:00
 draft = false
-+++
+---
 # Deploying Sidero Omni on a Vanilla Kubernetes Cluster 🌐🚀📦
 
 [Sidero Omni](https://omni.siderolabs.com) is a powerful control plane for provisioning and managing Talos Linux machines and Kubernetes clusters. In this guide, we'll walk through deploying Sidero Omni on a vanilla Kubernetes cluster, with practical examples for each step. ⚙️📘✨
