@@ -24,3 +24,15 @@ params:
   socialIcons: # optional
     - name: "X"
       url: "https://x.com"
+  assets:
+    disableHLJS: true
+
+
+markup:
+  highlight:
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    # noClasses: false
+    style: monokai
