@@ -1,4 +1,20 @@
 baseURL: https://blog.doublepulsar.win
 languageCode: en-us
 title: Tech musings and personal notes
-theme: ["PaperMod"]
+
+pagination:
+  pagerSize: 5
+theme: PaperMod
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  UseHugoToc: true
+  editPost:
+    URL: "https://github.com/djm300/blog/tree/master/content/posts"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
