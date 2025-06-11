@@ -1,4 +1,0 @@
-baseURL = "https://router.doublepulsar.win/hugo"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hyde-x"
