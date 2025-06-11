@@ -1,7 +1,7 @@
 ---
-title = 'Kubernetes Omni'
-date = 2025-06-11T16:02:46+02:00
-draft = false
+title: 'Kubernetes Omni'
+date: 2025-06-11T16:02:46+02:00
+draft: false
 ---
 # Deploying Sidero Omni on a Vanilla Kubernetes Cluster 🌐🚀📦
 
