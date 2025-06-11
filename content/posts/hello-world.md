@@ -1,9 +1,9 @@
 ---
-title = 'Hello World'
-date = 2024-08-30T16:40:04+02:00
-draft = false
+title: 'Hello World'
+date: 2024-08-30T16:40:04+02:00
+draft: false
 ---
 
-# Hello World222 👋 
+# Hello World 👋 
 
-Do you want [some ☕ ?](https://a-cup-of.coffee) 
+This is my first post.
